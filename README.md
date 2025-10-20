@@ -10,6 +10,7 @@ Ao longo dos últimos anos, explorei diferentes linguagens como **Python**, **HT
 - Listas e Arrays
 - Polimorfismo
 - Versionamento (Git & Github)
+- Pacote Office
 
 Também estou me desenvolvendo com **Linux** como sistema operacional de estudo, mas sou um usuário nativo de **Windows**.
 
